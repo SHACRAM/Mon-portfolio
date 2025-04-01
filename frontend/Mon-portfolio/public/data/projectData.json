@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Sound-nation",
+        "description" : "Ce projet est celui que j'ai réalisé tout au long de ma formation 'Développeur web et web mobile'. Je devais réaliser la partie front-end et back-end du site web d'un festival de musique. ",
+        "lienUtile" : "https://sound-nation.vercel.app",
+        "technos" : [
+            {
+                "name" : "React",
+                "lien": "/public/images/React.svg"
+            },
+            {
+                "name" : "TailwindCss",
+                "lien": "/public/images/Tailwind CSS.svg"
+
+            },
+{
+                "name" : "NodeJs",
+                "lien" : "/public/images/Node.js 2.svg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "My pocket library (en cours)",
+        "description" : "Étant passionné de lecture en parallèle de mes études de développement, j'ai souhaité allier mes deux centres d'intérêt : les livres et le code ! Ce projet a pour objectif de me familiariser avec la programmation orientée objet (POO), d'approfondir des concepts clés tels que l'abstraction, l'héritage et la surcharge, et de travailler sur une meilleure organisation du code en appliquant le modèle MVC (Modèle-Vue-Contrôleur).Avec une bibliothèque de plus en plus conséquente, j’ai ressenti le besoin de développer une application me permettant de gérer et de visualiser facilement mes ouvrages.",
+        "lienUtile" : "https://github.com/SHACRAM/My-Pocket-Library",
+        "technos" : [
+            {
+                "name" : "React",
+                "lien": "/public/images/React.svg"
+            },
+            {
+                "name" : "TailwindCss",
+                "lien": "/public/images/Tailwind CSS.svg"
+
+            },
+            {
+                "name" : "Php",
+                "lien": "/public/images/PHP.png"
+
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Mon portfolio",
+        "description" : "Le but de ce projet est de tout simplement me présenter et de présenter mes projets, aussi bien ceux de ma formation que mes projets personnels.",
+        "lienUtile" : "https://github.com/SHACRAM/Mon-portfolio",
+        "technos" : [
+            {
+                "name" : "React",
+                "lien": "/public/images/React.svg"
+            },
+            {
+                "name" : "TailwindCss",
+                "lien": "/public/images/Tailwind CSS.svg"
+
+            }
+        ]
+    }
+]

@@ -7,16 +7,16 @@
         "technos" : [
             {
                 "name" : "React",
-                "lien": "/src/assets/React.svg"
+                "lien": "/public/images/React.svg"
             },
             {
                 "name" : "TailwindCss",
-                "lien": "/src/assets/Tailwind CSS.svg"
+                "lien": "/public/images/Tailwind CSS.svg"
 
             },
 {
                 "name" : "NodeJs",
-                "lien" : "/src/assets/Node.js 2.svg"
+                "lien" : "/public/images/Node.js 2.svg"
             }
         ]
     },
@@ -28,16 +28,16 @@
         "technos" : [
             {
                 "name" : "React",
-                "lien": "/src/assets/React.svg"
+                "lien": "/public/images/React.svg"
             },
             {
                 "name" : "TailwindCss",
-                "lien": "/src/assets/Tailwind CSS.svg"
+                "lien": "/public/images/Tailwind CSS.svg"
 
             },
             {
                 "name" : "Php",
-                "lien": "/src/assets/PHP.png"
+                "lien": "/public/images/PHP.png"
 
             }
         ]
@@ -50,11 +50,11 @@
         "technos" : [
             {
                 "name" : "React",
-                "lien": "/src/assets/React.svg"
+                "lien": "/public/images/React.svg"
             },
             {
                 "name" : "TailwindCss",
-                "lien": "/src/assets/Tailwind CSS.svg"
+                "lien": "/public/images/Tailwind CSS.svg"
 
             }
         ]

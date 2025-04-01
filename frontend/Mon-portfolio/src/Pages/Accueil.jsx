@@ -18,7 +18,7 @@ export const Accueil = ()=>{
     const getData = async ()=>{
         try{
 
-            const response = await axios.get("/src/data/projectData.json");
+            const response = await axios.get("/public/data/projectData.json");
             if(response){
                 setProjectData(response.data);
                 setMessage("Données récupérées avec succès");
@@ -57,7 +57,8 @@ export const Accueil = ()=>{
                 )}
                 
             </div>
-            <Footer/>
+                <Footer/>
+            
             
         </div>
     )
